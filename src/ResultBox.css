@@ -1,0 +1,36 @@
+#ResultBoxId{
+    height: 85%;
+    width: 80%;
+    background-color: rgb(40, 40, 40);
+    z-index: 2;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    overflow-y: scroll;
+}
+
+#ResultBoxId h3{
+    color: rgb(230, 230, 230);
+    font-family: Calibri;
+    font-size: 20px;
+}
+
+#ResultBoxId h6{
+    color: rgb(230, 230, 230);
+    font-family: Calibri;
+    margin-top: 10px;
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+#ResultHeader{
+    margin-top: 15px;
+    font-family: Calibri;
+}
