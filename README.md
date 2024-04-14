@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# NoCheat
+The React app primarily serves to facilitate API calls to our AI model hosted on Roboflow. While the app itself may appear straightforward, the crux of the work lies in the development of the AI model. The React frontend simply acts as an interface, allowing users to interact with the model seamlessly.
